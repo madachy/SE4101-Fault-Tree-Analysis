@@ -2,9 +2,9 @@
 
 Artifacts for fault tree analysis using PyML.  The file _fault_tree_example.py_ shows how to create a fault tree diagram.  The spreadsheets are also used to define fault trees and read into PyML using the following conventions.
 
-![Alt text](fault tree spreadsheet example.png)
+![Alt text](fault%20tree%20spreadsheet%20example.png)
 
-![alt text](https://github.com/madachy/SE4101-Fault-Tree-Analysis/blob/main/fault%20tree%20spreadsheet%20example.png)
+![fault tree spreadsheet example](https://github.com/madachy/SE4101-Fault-Tree-Analysis/blob/main/fault%20tree%20spreadsheet%20example.png)
 
 
 ![fault tree spreadsheet example.png]
