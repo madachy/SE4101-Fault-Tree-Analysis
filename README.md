@@ -4,6 +4,9 @@ Artifacts for fault tree analysis using PyML.  The file _fault_tree_example.py_ 
 
 ![Alt text](fault tree spreadsheet example.png)
 
+![alt text](http://url/to/img.png)
+
+
 ![fault tree spreadsheet example.png]
 
 The top event must be in the first row, but all other events can be in any order.  They may be grouped by their event paths or by hierarchical levels as convenient.   Event types can be conditional "and"s, conditional "or"s, or basic events (leaves).  The following are valid designations for event types:
