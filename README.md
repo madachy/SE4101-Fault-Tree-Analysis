@@ -17,6 +17,6 @@ The example fault tree below is specified using the provided template file 'faul
 
 ![fault tree example](fault%20tree%20example.png)
 
-The template provided can be modified for new fault trees.
+The provided template can be modified for new fault trees.  Additional branch columns can be added as necessary.
 
 
