@@ -4,7 +4,7 @@ lamp_circuit_fault_tree = [("Missing Indication", "and", ["Resistor Fails", "Cap
            ('Both Lamps Out', 'or', ['Lamp 1 Fails', 'Lamp 2 Fails', 'Lamp 3 Fails']),
            ('Resistor Fails', 'basic', []),
            ('Capacitor Fails', 'basic', []),
-           ('Lamp 1 Fails', 'BASIC', []),
+           ('Lamp 1 Fails', 'basic', []),
            ('Lamp 2 Fails', 'basic', []),
            ('Lamp 3 Fails', 'basic', []),]
 
