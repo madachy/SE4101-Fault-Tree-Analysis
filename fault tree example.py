@@ -6,7 +6,6 @@ lamp_circuit_fault_tree = [("Missing Indication", "and", ["Resistor Fails", "Cap
            ('Capacitor Fails', 'basic', []),
            ('Lamp 1 Fails', 'BASIC', []),
            ('Lamp 2 Fails', 'basic', []),
-           ('Lamp 3 Fails', 'basic', []),
-                          ]
+           ('Lamp 3 Fails', 'basic', []),]
 
 pyml.fault_tree_diagram(lamp_circuit_fault_tree, filename="lamp_circuit_fault_tree", format='png')
