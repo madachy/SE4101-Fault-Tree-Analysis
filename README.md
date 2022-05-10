@@ -11,14 +11,12 @@ A fault tree can be defined in a spreadsheet using the following conventions and
 |Or | "Or" "or" "OR" |
 |Basic | "Basic" "basic" "BASIC"
 
-## Spreadsheet Instructions
-
 The example fault tree below is specified using the provided template file 'fault tree example.xls' shown underneath.
 
 ![lamp_circuit_fault_tree](lamp_circuit_fault_tree.png)
 
 ![fault tree example](fault%20tree%20example.png)
 
-The template provided can be modified for new fault trees.
+The provided template can be modified for new fault trees.  Additional branch columns can be added as necessary.
 
 
